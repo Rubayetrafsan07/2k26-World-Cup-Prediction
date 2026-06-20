@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+data/
+WORLD_CUP_2026_PROJECT_PLAN.md
+assets/project-workflow.svg

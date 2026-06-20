@@ -1,0 +1,13 @@
+# Basic requirements for the project
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+streamlit
+xgboost
+plotly
+transformers
+datasets
+
